@@ -2,12 +2,6 @@
 
 # 🚀 **Hawatri's Arch - Hyprland Install Script** 🚀
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="400" />
-</p>
-
-![GitHub Repo stars](https://img.shields.io/github/stars/JaKooLit/Arch-Hyprland?style=for-the-badge&color=cba6f7) ![GitHub last commit](https://img.shields.io/github/last-commit/JaKooLit/Arch-Hyprland?style=for-the-badge&color=b4befe) ![GitHub repo size](https://img.shields.io/github/repo-size/JaKooLit/Arch-Hyprland?style=for-the-badge&color=cba6f7)
-
 <br/>
 </div>
 
@@ -51,8 +45,8 @@
 
 ```bash
 # Clone the repository
-git clone --depth=1 https://github.com/your-username/Arch-Hyprland.git ~/Arch-Hyprland
-cd ~/Arch-Hyprland
+git clone --depth=1 https://github.com/your-username/Hyprland-Hawatri.git ~/Hyprland-Hawatri
+cd ~/Hyprland-Hawatri
 
 # Make executable and run
 chmod +x install.sh
