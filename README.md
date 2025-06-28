@@ -45,8 +45,8 @@
 
 ```bash
 # Clone the repository
-git clone --depth=1 https://github.com/your-username/Hyprland-Hawatri.git ~/Hyprland-Hawatri
-cd ~/Hyprland-Hawatri
+git clone https://github.com/your-username/Hyprland-Hawatri.git
+cd Hyprland-Hawatri
 
 # Make executable and run
 chmod +x install.sh
